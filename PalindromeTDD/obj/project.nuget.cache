@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nWf73jSlThER77zcoxTKqkK4yTWXdnVPJEUdC5nBnNm11oP+cx26NWcsgSPBCJ1JJPxCquxC6J+m5uBZFzDj8A==",
+  "success": true,
+  "projectFilePath": "E:\\MBA\\palindromeTDD\\PalindromeTDD\\PalindromeTDD\\PalindromeTDD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\babi_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
